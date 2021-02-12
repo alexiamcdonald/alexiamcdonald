@@ -2,7 +2,9 @@
 
 I can make a readme file to make my github profile fancy too! 😎
 
-I'm an advocate of sharing knowledge, so if you want to be like me create a new repo with your github username. 😏
+I'm an advocate of sharing knowledge! 👩🏻‍🏫
+
+So if you want to be like me create a new repo with your github username. 😏
 
 In my case, it was `alexiamcdonald` and then add a README.md file. 🤯
 
