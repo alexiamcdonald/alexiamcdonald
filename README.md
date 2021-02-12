@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I can make a readme file to make my github profile fancy too!
+
+I'm an advocate of sharing knowledge so if you want to be like me create a new repo with your github username. In my case it was `alexiamcdonald` and then add a README.md file. Github secret revealed! Now you can be a magical code monkey like me. Good luck! 🎉
+
 <!--
 **alexiamcdonald/alexiamcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
